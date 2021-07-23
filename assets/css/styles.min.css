@@ -1,0 +1,21 @@
+@media (max-width:522px) {
+  header.masthead .masthead-content .masthead-heading {
+    font-size: 30px;
+  }
+}
+
+@media (max-width:522px) {
+  .display-4 {
+    font-size: 35px;
+  }
+}
+
+@media (max-width:576px) {
+  font-size: 20px;
+}
+
+.btn-primary:active, .btn-primary:focus, .btn-primary:hover {
+  background-color: rgb(230,130,108)!important;
+  border-color: rgb(230,130,108)!important;
+}
+
